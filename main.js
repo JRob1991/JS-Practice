@@ -8,17 +8,17 @@ var givenName;
 
 givenName = "Tim";
 // Q: What is `givenName` set to right now?
-// A: "Tim"
+// A: Tim
 
 
 givenName = "JD";
 // Q: What is `givenName` set to right now?
-// A: "JD"
+// A: JD
 
 
 var greeting = "Hello, how are you?";
 // Q: What is `greeting` set to?
-// A: undefined
+// A: Hello, how are you?
 
 
 /*=========================================================
@@ -31,7 +31,7 @@ var low  = 10;
 
 var math = high - low;
 // Q: What is `math` set to?
-// A: undefined (40 if you just use "math = high-low;")
+// A: 40
 
 math = high - "5";
 // Q: What is `math` set to?
