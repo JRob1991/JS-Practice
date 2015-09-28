@@ -62,8 +62,8 @@ else
 
 // Store some information following in variables.
 
-var yourName = "Justin";
-var instructorName = "Tim & JD";
+var yourName;
+var instructorName;
 
 // Update the variables above so the expression reads correctly.
 // Answers Below:
